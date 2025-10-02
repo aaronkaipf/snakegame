@@ -42,7 +42,7 @@ Dieses Projekt ist eine moderne Implementierung des klassischen Snake-Spiels. St
 
 1. Repository klonen:
 ```bash
-git clone https://github.com/deinusername/snake-game.git
+git clone https://github.com/aaronkaipf/snakegame.git
 cd snake-game
 ```
 
@@ -88,7 +88,7 @@ snake-game/
 │
 ├── bilder/
 │   ├── head.png       # Schlangenkopf
-│   ├── body.png       # Schlangenkörper-Segment
+│   ├── segment.png       # Schlangenkörper-Segment
 │   ├── apple.png      # Apfel
 │   └── background.png # Hintergrund-Kachel
 │

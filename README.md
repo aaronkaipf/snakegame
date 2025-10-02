@@ -15,8 +15,7 @@ Ein klassisches Snake-Spiel implementiert in Python mit Pygame.
 - [Spielregeln](#spielregeln)
 - [Projektstruktur](#projektstruktur)
 - [Technische Details](#technische-details)
-- [Screenshots](#screenshots)
-- [Lizenz](#lizenz)
+
 
 ## 🎮 Über das Projekt
 
